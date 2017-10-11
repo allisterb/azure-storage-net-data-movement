@@ -19,7 +19,7 @@
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <GenerateAssemblyCopyrightAttribute>false</GenerateAssemblyCopyrightAttribute>
     <GenerateNeutralResourcesLanguageAttribute>false</GenerateNeutralResourcesLanguageAttribute>
-    <DefineConstants>TRACE;DEBUG;DOTNET5_4;GENERIC_MARSHAL_SIZEOF;RUNTIME_INFORMATION;TRANSPARENCY_V2;EXPECT_INTERNAL_WRAPPEDSTORAGEEXCEPTION;NO_FILEFORMAT_EX;NETSTANDARD2_0</DefineConstants>
+    <DefineConstants>TRACE;DEBUG;DOTNET5_4;BINARY_SERIALIZATION;GENERIC_MARSHAL_SIZEOF;RUNTIME_INFORMATION;TRANSPARENCY_V2;EXPECT_INTERNAL_WRAPPEDSTORAGEEXCEPTION;NO_FILEFORMAT_EX;NETSTANDARD2_0</DefineConstants>
   </PropertyGroup>
 
   <ItemGroup>
